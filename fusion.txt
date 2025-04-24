@@ -1,0 +1,2 @@
+crean cambios para fusionar pull request
+agregar mas integrantes y commits de cada uno
